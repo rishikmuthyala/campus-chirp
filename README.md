@@ -6,6 +6,11 @@ A full-stack social media platform built exclusively for college students to con
 
 Campus Chirp bridges the gap between students across campus by providing a dedicated space for academic discussions, event sharing, study groups, and campus life updates. Built with modern web technologies, it delivers a seamless social experience tailored specifically for the college environment.
 
+## Demo of CampusChirp!
+
+https://github.com/user-attachments/assets/23baf33e-e34d-4845-beeb-4799f4816c3e
+
+
 ## ✨ Key Features
 
 ### Core Social Features
@@ -49,7 +54,7 @@ Campus Chirp bridges the gap between students across campus by providing a dedic
 
 ### Installation
 
-1. **Clone the repository**
+1. **Clone the repository** 
    ```bash
    git clone https://github.com/yourusername/campus-chirp.git
    cd campus-chirp
